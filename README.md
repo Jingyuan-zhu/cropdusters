@@ -94,10 +94,9 @@ Default values are provided as an example to help you figure out what should be 
 | -------------------------- | ------------------ | --------------------------------------------------------------------------- |
 | PROJECT_NAME               | cropdusters        | The project name                                                            |
 | REPO_SLUG                  | cropdusters_PR2    | URL slug within the wustl-data organization                                 |
-| GITHUB_USERNAME            | JackWeitzner       | Corrosponding maintainer                                                    |
-| FULL_NAME                  | Anton Young        | Corrosponding maintainer                                                    |
 | FULL_NAME                  | Jingyuan Zhu       | Corrosponding maintainer                                                    |
-| FULL_NAME                  | Jack Weitzner      |                                                                             |
+| FULL_NAME                  | Anton Young        | Corrosponding maintainer                                                    |
+| FULL_NAME                  | Jack Weitzner      | Corrosponding maintainer                                                    |
 | OPEN_SOURCE_LICENSE        | MIT license        | Copyright (c) 2023, WUSTL Data Wrangling                                    |
 
 ## Roadmap
