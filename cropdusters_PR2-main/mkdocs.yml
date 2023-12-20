@@ -1,6 +1,0 @@
-site_name: cropdusters
-nav:
-  - Home: index.md
-  - API Reference: extract.md
-plugins:
-  - mkdocstrings
