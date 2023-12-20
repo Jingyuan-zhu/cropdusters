@@ -1,0 +1,22 @@
+[project]
+name = "cropdusters"
+version = "1.0.0"
+description = ""
+authors = [{name="Jack Weitzner <j.p.weitzner@wustl.edu>"}]
+readme = "README.md"
+dependencies = [
+    "dbt-duckdb >= 1.6.1",
+    "requests >= 2.31.0",
+    "pandas >= 2.1.2",
+    "python-dotenv >= 1.0.0",
+    "harlequin >= 1.2.0",
+    "ipykernel >= 6.26.0",
+    "pytest-bdd >= 7.0.0",
+    "mkdocs >= 1.5.3",
+    "mkdocstrings >= 0.24.0",
+    "mkdocs-codeinclude-plugin >= 0.2.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

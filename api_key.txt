@@ -1,0 +1,1 @@
+National Agriculture Statistics Survey API Key. Good for 50000 calls per day. Owned by @JackWeitzner
